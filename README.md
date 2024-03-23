@@ -2,7 +2,7 @@
 
 [Project Laser](nmac101.github.io/projectlaser)
 
-<h1>
+</h1>
 
 <h3 align=center>An old Brawl Stars easter egg, now hosted on GitHub</h3>
 
