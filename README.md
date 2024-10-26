@@ -1,6 +1,6 @@
 <h1 align=center>
 
-[Project Laser](nmac101.github.io/projectlaser)
+[Project Laser](https://nmac101.github.io/projectlaser/)
 
 </h1>
 
